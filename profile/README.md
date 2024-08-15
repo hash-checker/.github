@@ -1,4 +1,4 @@
-<img src="media/logo/ic_app.png" height="100px" />
+<img src="../media/logo/ic_app.png" height="100px" />
 
 # Hash Checker
 
@@ -7,16 +7,16 @@ Fast and simple application that allows you to generate and compare hashes from 
 ## Download
 
 <a href="https://github.com/hash-checker/hash-checker/releases">
-  <img src="media/banners/bn_github.png" height="75px" />
+  <img src="../media/banners/bn_github.png" height="75px" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.smlnskgmail.jaman.hashchecker">
-  <img src="media/banners/bn_google_play.png" height="75px" />
+  <img src="../media/banners/bn_google_play.png" height="75px" />
 </a>
 <a href="https://apt.izzysoft.de/fdroid/index/apk/com.smlnskgmail.jaman.hashchecker.thirdparty">
-  <img src="media/banners/bn_izzy_on_droid.png" height="75px" />
+  <img src="../media/banners/bn_izzy_on_droid.png" height="75px" />
 </a>
 <a href="https://www.androidfilehost.com/?w=files&flid=316843">
-  <img src="media/banners/bn_android_file_host.png" height="75px" />
+  <img src="../media/banners/bn_android_file_host.png" height="75px" />
 </a>
 
 ## Supporting algorithms
@@ -39,11 +39,11 @@ Fast and simple application that allows you to generate and compare hashes from 
 
 <br/>
 <p align="center">
-  <img src="media/screenshots/screenshot_01.png" width="150" />
-  <img src="media/screenshots/screenshot_02.png" width="150" />
-  <img src="media/screenshots/screenshot_03.png" width="150" />
-  <img src="media/screenshots/screenshot_04.png" width="150" />
-  <img src="media/screenshots/screenshot_05.png" width="150" />
+  <img src="../media/screenshots/screenshot_01.png" width="150" />
+  <img src="../media/screenshots/screenshot_02.png" width="150" />
+  <img src="../media/screenshots/screenshot_03.png" width="150" />
+  <img src="../media/screenshots/screenshot_04.png" width="150" />
+  <img src="../media/screenshots/screenshot_05.png" width="150" />
 </p>
 
 ## How to use
